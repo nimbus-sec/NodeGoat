@@ -1,6 +1,12 @@
 # Node modules
 node_modules
 
+#coverity
+cov*
+*coverity*
+security-da*
+template-da*
+
 # Logs and databases
 *.log
 *.db
